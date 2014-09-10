@@ -22,4 +22,6 @@ test:
 
 production:
   <<: *default
+  username: jurfmpnouqcjlg
+  password: m4LUjrbRuFDJj1W38eUJ-qhwaT
   database: firstapp_production
